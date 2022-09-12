@@ -1,4 +1,4 @@
-# UnityWithFirebase
+# Unity Firebase
 
 ## Environment
 - Unity 2021.3.4f1
